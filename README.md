@@ -15,7 +15,7 @@
 ### 🤖 CHATBOT
 ### 🔗 ANTILINK
 ### *AND MORE COMMANDS*
----
+---kick
 
 ---
 ## 🚀 Get Started  
